@@ -1,4 +1,4 @@
 # figure
 图床
 
-token： 754a43b0365f0925d16cbd252be82a58038a94d8
+token： 6ac1b1fc9753a7f56baae4cf4c39add463f08cdb
